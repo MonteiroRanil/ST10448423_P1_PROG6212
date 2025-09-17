@@ -46,7 +46,7 @@ namespace CMCS_POE.Controllers
             if (claim != null) claim.IsVerified = true;
             return RedirectToAction("Index");
         }
-        //abrove action
+        //approve action
         public IActionResult Approve(int id)
         {
             var claim = claims.FirstOrDefault(c => c.Id == id);

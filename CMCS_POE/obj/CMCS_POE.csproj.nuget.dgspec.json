@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\Desktop\\ST10448423_prog6121_p1\\CMCS_POE\\CMCS_POE.csproj": {}
+    "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\CMCS_POE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\Desktop\\ST10448423_prog6121_p1\\CMCS_POE\\CMCS_POE.csproj": {
+    "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\CMCS_POE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_prog6121_p1\\CMCS_POE\\CMCS_POE.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\CMCS_POE.csproj",
         "projectName": "CMCS_POE",
-        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_prog6121_p1\\CMCS_POE\\CMCS_POE.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\CMCS_POE.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_prog6121_p1\\CMCS_POE\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
