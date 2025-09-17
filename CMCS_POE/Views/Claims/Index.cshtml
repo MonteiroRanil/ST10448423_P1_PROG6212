@@ -1,0 +1,40 @@
+﻿@model IEnumerable<CMCS_POE.Models.Claim>
+
+<h2>Claims Verification & Approval</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Lecturer</th>
+            <th>Module</th>
+            <th>Hours</th>
+            <th>Amount</th>
+            <th>Verified</th>
+            <th>Approved</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.LecturerName</td>
+                <td>@claim.ModuleName</td>
+                <td>@claim.HoursWorked</td>
+                <td>@claim.Amount</td>
+                <td>@(claim.IsVerified ? "✅" : "❌")</td>
+                <td>@(claim.IsApproved ? "✅" : "❌")</td>
+                <td>
+                    @if (!claim.IsVerified)
+                    {
+                        <a asp-action="Verify" asp-route-id="@claim.Id" class="btn btn-warning btn-sm">Verify</a>
+                    }
+                    else if (!claim.IsApproved)
+                    {
+                        <a asp-action="Approve" asp-route-id="@claim.Id" class="btn btn-success btn-sm">Approve</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
