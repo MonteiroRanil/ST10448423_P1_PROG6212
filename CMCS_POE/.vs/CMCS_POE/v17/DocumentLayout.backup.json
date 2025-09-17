@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|c:\\users\\lab_services_student\\desktop\\st10448423_p1_prog6212\\cmcs_poe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|c:\\users\\lab_services_student\\desktop\\st10448423_p1_prog6212\\cmcs_poe\\views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|solutionrelative:views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|solutionrelative:views\\claims\\status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|c:\\users\\lab_services_student\\desktop\\st10448423_p1_prog6212\\cmcs_poe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|c:\\users\\lab_services_student\\desktop\\st10448423_p1_prog6212\\cmcs_poe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\Views\\Claims\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Claims\\Index.cshtml",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Claim.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\Models\\Claim.cs",
               "RelativeDocumentMoniker": "Models\\Claim.cs",
@@ -71,12 +71,11 @@
               "RelativeToolTip": "Models\\Claim.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T17:15:37.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T17:15:37.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\Views\\Claims\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Claims\\Create.cshtml",
@@ -84,12 +83,11 @@
               "RelativeToolTip": "Views\\Claims\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T16:53:36.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T16:53:36.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ClaimsController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\Controllers\\ClaimsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClaimsController.cs",
@@ -101,19 +99,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAADwvy0AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T16:59:31.869Z"
+              "WhenOpened": "2025-09-16T16:59:31.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Upload.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\Views\\Claims\\Upload.cshtml",
               "RelativeDocumentMoniker": "Views\\Claims\\Upload.cshtml",
@@ -121,12 +120,11 @@
               "RelativeToolTip": "Views\\Claims\\Upload.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T16:53:55.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T16:53:55.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Status.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\Views\\Claims\\Status.cshtml",
               "RelativeDocumentMoniker": "Views\\Claims\\Status.cshtml",
