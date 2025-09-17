@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|c:\\users\\lab_services_student\\desktop\\st10448423_p1_prog6212\\cmcs_poe\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|solutionrelative:controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|c:\\users\\lab_services_student\\desktop\\st10448423_p1_prog6212\\cmcs_poe\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|c:\\users\\lab_services_student\\desktop\\st10448423_p1_prog6212\\cmcs_poe\\views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|solutionrelative:views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|c:\\users\\lab_services_student\\desktop\\st10448423_p1_prog6212\\cmcs_poe\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|c:\\users\\lab_services_student\\desktop\\st10448423_p1_prog6212\\cmcs_poe\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|solutionrelative:controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A9FD741-17A9-4CF2-B506-441ABC174767}|CMCS_POE.csproj|c:\\users\\lab_services_student\\desktop\\st10448423_p1_prog6212\\cmcs_poe\\views\\claims\\status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Claim.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\Models\\Claim.cs",
               "RelativeDocumentMoniker": "Models\\Claim.cs",
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ClaimsController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10448423_P1_PROG6212\\CMCS_POE\\Controllers\\ClaimsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClaimsController.cs",
@@ -133,8 +133,7 @@
               "RelativeToolTip": "Views\\Claims\\Status.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-16T16:54:24.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-16T16:54:24.53Z"
             },
             {
               "$type": "Document",
